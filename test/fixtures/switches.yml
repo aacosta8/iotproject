@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idhome: MyString
+  var_1: false
+
+two:
+  idhome: MyString
+  var_1: false

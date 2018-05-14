@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idhome: MyString
+  var_1: 1.5
+  var_2: 1.5
+  var_3: 1.5
+
+two:
+  idhome: MyString
+  var_1: 1.5
+  var_2: 1.5
+  var_3: 1.5
